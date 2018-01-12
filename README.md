@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # HeroApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.4.
@@ -26,7 +25,3 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
-=======
-# angular-tutorial
-Small personal project to learn Angular
->>>>>>> 5e4ad6d8f96b8b7c80cf7f3144d961ec0f98e298
